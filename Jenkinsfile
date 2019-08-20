@@ -1,6 +1,6 @@
 node {
     stage ('stage1') {
-        sh 'echo "automate that shit!! "'
+        sh 'echo "automate that!! "'
     }
     stage ('stage2') {
         sh 'echo "hey its stage 2"'
